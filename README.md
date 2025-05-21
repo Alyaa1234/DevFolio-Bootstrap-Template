@@ -11,7 +11,7 @@ A responsive personal portfolio website template built using **HTML**, **CSS**, 
 ## 🛠️ Technologies Used  
 - HTML5  
 - CSS3  
-- Bootstrap 4  
+- Bootstrap  v5.3.3  
 - Webfonts & Icons  
 
 ## 🔧 Planned Enhancements  
