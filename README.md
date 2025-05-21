@@ -19,8 +19,9 @@ A responsive personal portfolio website template built using **HTML**, **CSS**, 
 - Include animations for smoother UI  
 - Form validation with JavaScript  
 
+## 🔗 Live Demo  
+[Click to view live](https://alyaa1234.github.io/DevFolio-Bootstrap-Template/)
+
 ## 🖼️ Screenshots  
 ![DevFolio Screenshot](./imgs/DevFolio-Bootstrap-Portfolio-Template-index.png)
 
-## 🔗 Live Demo  
-[Click to view live](https://alyaa1234.github.io/DevFolio-Bootstrap-Template/)
